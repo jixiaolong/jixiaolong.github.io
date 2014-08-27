@@ -1,8 +1,8 @@
 title:            吉小龙
 description:      A jekyll theme. Because I scribble.
-url:              # Site url.
-signoff:          # Your name.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+url:              http://jixiaolong.github.io
+signoff:          吉小龙
+disqus_shortname: jixiaolonggithubio
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
@@ -10,10 +10,10 @@ links:
   - name:         关于我
     url:          /about
   - name:         博客
-    url:          http://muan.co
+    url:          http://jixiaolong.github.io
     external:     true
   - name:         联系我
-    url:          mailto:hello@muan.co
+    url:          mailto:jixiaolongcom@sina.cn
     external:     true
   - name:         GitHub
     url:          http://github.com/jixiaolong/
