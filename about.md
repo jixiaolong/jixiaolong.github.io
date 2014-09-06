@@ -2,7 +2,7 @@
 layout: page
 title: 这小子干嘛的？
 ---
-> 大家好！我是吉小龙，是一名Web开发者，很高兴光顾我的网站!
+> 大家好！我是吉小龙，是一名Web开发运维开发者，很高兴光顾我的网站!
 
 > 我的信息  
 *  Email: jixiaolongcom@sina.cn  
